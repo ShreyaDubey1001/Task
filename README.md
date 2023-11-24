@@ -7,18 +7,18 @@ This is a MERN stack app.
 - Login page
 - Highly Authenticated
 ### Tech Stack
--Reactjs
--Nodejs
--ExpressJs
--MongoDB
--Mongoose
--Jwt
+- Reactjs
+- Nodejs
+- ExpressJs
+- MongoDB
+- Mongoose
+- Jwt
 ### for logging in
--use the following credentials:
-  -email:emp1@gmail.com
-  -password:emp123
+- use the following credentials:
+  - email:emp1@gmail.com
+  - password:emp123
 ### for starting frontend server
--use "cd frontend"
--then "npm start"
+- use "cd frontend"
+- then "npm start"
 ### for starting backend server
--use "node server.js"
+- use "node server.js"
