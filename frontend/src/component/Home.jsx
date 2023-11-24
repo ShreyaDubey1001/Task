@@ -63,8 +63,8 @@ const Home = () => {
                   <button
                     className="btn btn-primary ms-2"
                     style={{
-                      backgroundColor: "green",
-                      borderColor: "green",
+                      backgroundColor: "#0d6efd",
+                      borderColor: "#0d6efd",
                       color: "white",
                     }}
                     onClick={(event) => {
@@ -83,8 +83,8 @@ const Home = () => {
       <button
         className="btn btn-primary ms-2"
         style={{
-          backgroundColor: "green",
-          borderColor: "green",
+          backgroundColor: "#0d6efd",
+          borderColor: "#0d6efd",
           color: "white",
         }}
         onClick={handleClick}
