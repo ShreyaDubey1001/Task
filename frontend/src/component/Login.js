@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./login.css
+import "./login.css";
 
 const Login = () => {
   const [email, setEmail] = useState("");
