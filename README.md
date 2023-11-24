@@ -15,7 +15,7 @@ This is a MERN stack app.
 - Jwt
 ### for logging in
 - use the following credentials:
-  - email:emp1@gmail.com
+  - email:admin@gmail.com
   - password:emp123
 ### for starting frontend server
 - use "cd frontend"
