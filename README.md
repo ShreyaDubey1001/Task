@@ -16,7 +16,7 @@ This is a MERN stack app.
 ### for logging in
 - use the following credentials:
   - email:admin@gmail.com
-  - password:emp123
+  - password:admin
 ### for starting frontend server
 - use "cd frontend"
 - then "npm start"
